@@ -30,6 +30,6 @@ Put your spintax text in `data/input.txt`
 
 Run it with ruby
 
-spintax.rb
+    spintax.rb
 
 Have a result in `data/output.txt`
