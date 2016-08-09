@@ -28,8 +28,8 @@ Install dependencies
 
 Put your spintax text in `data/input.txt`
 
-Run it
+Run it:
 
-   ruby spintax.rb
+    ruby spintax.rb
 
 Have a result in `data/output.txt`
