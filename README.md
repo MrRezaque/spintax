@@ -4,7 +4,7 @@ A small script in ruby which allows to spin text with simple syntax.
 
 ###Example
 
-The phrase `"I really like to {be inside and {play computer|read a book|watch tv}|be outside {and|where I like to} {play football|take a walk|catch pokemon}"` will be converted to this output
+The phrase `"I really like to {be inside and {play computer|read a book|watch tv}|be outside {and|where I like to} {play football|take a walk|catch pokemon}}"` will be converted to this output
 
     I really like to be inside and play computer
     I really like to be inside and read a book
